@@ -2,6 +2,12 @@
 
 A browser-based tool for comparing JSON permission exports from Axon applications. Upload two or three JSON files to quickly identify permission differences across environments (e.g., Training vs Production).
 
+## Quick Access
+
+**[Open Permissions Comparator](https://mwesolowski-axon.github.io/permissions-comparator/)**
+
+For fastest access, bookmark the link above in your browser.
+
 ## Features
 
 - **Multi-file comparison** – Compare 2 or 3 JSON permission files side-by-side
